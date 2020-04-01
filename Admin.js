@@ -1,5 +1,4 @@
-$(document).ready(function() {
-	$("#update").hide();
+$
 	$("#add").show();
 	$("#delete").hide();
 	
